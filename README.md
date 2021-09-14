@@ -38,3 +38,11 @@ Pycharm run dlib-18.17/python_examples/landmarkPredict.py
 4. Train 
 
 Modify train.prototxt and train_solver.prototxt files, train the model using your own data.
+
+****
+### Donation 
+:moneybag:
+
+* Your donation is highly welcomed to help us further develop Head-Pose-Estimator.Caffe to better facilitate more cutting-edge researches and applications on facial analytics and human-centric multi-media understanding. The donation QR code via Wechat is as below. Appreciate it very much:heart:
+ 
+  <img src="https://github.com/ZhaoJ9014/Head-Pose-Estimator.Caffe/blob/master/model/Donation.jpeg" width="200px"/>
